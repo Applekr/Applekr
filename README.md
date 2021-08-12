@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ```Kotlin```, ```Node.js```
+- 🤔 I’m looking for help with ```Kotlin Minecraft plugin```
+- 💬 Ask me about ```Python```
+- 📫 How to reach me: ```Applekr#7273```, ```@Applekr3```
+- ⚡ Fun fact: I *love* music
+
 <!--
 **Applekr/Applekr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
