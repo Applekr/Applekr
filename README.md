@@ -1,10 +1,11 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning ```Kotlin```, ```Node.js```
-- 🤔 I’m looking for help with ```Kotlin Minecraft plugin```
-- 💬 Ask me about ```Python```
-- 📫 How to reach me: ```Applekr#7273```, ```@Applekr3```
-- ⚡ Fun fact: I *love* music
+- 15 👨‍🎓
+- Seoul, Republic of Korea 🇰🇷
+- ENFP 👽
+- Middle school student 📚 / Developer ⌨️
+- I like music 🎶
+- ~I hate PHP~
 
 ## Links 🔗
 - [YouTube](https://www.youtube.com/Applekr)
